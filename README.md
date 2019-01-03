@@ -22,9 +22,9 @@ Note: Project is Incomplete but Inculdes 85% Features that are Written Above.
 This Was Our First Project and We Lost The Completed Project So We Decided to Share This Project to You. 
 It Can Help You in Some Ways Like History, Tab, Bookmarks etc...
 
-But Still You Can Download Full Version OrangeX Browser Without Source Code (Because Full/Completed Source Code has been lose , we're sorry)
+But Still You Can Download Full Version OrangeX Browser Without Source Code (Because Full/Completed Source Code is Not Available Now)
 
-Download Executable File From Here : https://orangexbrowser.weebly.com
+Download Executable File From Here : https://www.effacestudios.com/shop/orangex-browser-source-code/
 
 ![OrangeX Browser](https://orangexbrowser.weebly.com/uploads/8/2/4/7/82476680/background-images/1609121580.gif)
 ![OrangeX Browser](https://orangexbrowser.weebly.com/uploads/8/2/4/7/82476680/3739028_orig.png)
